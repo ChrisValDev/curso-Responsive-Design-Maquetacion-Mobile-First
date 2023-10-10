@@ -1,0 +1,13 @@
+.main-tables-container {
+    display: flex;
+    margin: 0 auto;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap; /*se coloca para que no genere overflow los contenedores y se acomoden conforme a su tamaño y el de lapantalla*/
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+}
